@@ -1,0 +1,8 @@
+D:\IconExtractorTest\bin\Debug\net462\IconExtractorTest.exe
+D:\IconExtractorTest\bin\Debug\net462\IconExtractorTest.pdb
+D:\IconExtractorTest\bin\Debug\net462\dotnet-bundle.exe
+D:\IconExtractorTest\bin\Debug\net462\Newtonsoft.Json.dll
+D:\IconExtractorTest\bin\Debug\net462\NUglify.dll
+D:\IconExtractorTest\obj\Debug\net462\IconExtractorTest.AssemblyInfo.cs
+D:\IconExtractorTest\obj\Debug\net462\IconExtractorTest.exe
+D:\IconExtractorTest\obj\Debug\net462\IconExtractorTest.pdb

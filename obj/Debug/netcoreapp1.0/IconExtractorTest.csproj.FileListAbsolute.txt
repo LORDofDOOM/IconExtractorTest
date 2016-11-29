@@ -1,0 +1,5 @@
+D:\IconExtractorTest\bin\Debug\netcoreapp1.0\IconExtractorTest.dll
+D:\IconExtractorTest\bin\Debug\netcoreapp1.0\IconExtractorTest.pdb
+D:\IconExtractorTest\obj\Debug\netcoreapp1.0\IconExtractorTest.AssemblyInfo.cs
+D:\IconExtractorTest\obj\Debug\netcoreapp1.0\IconExtractorTest.dll
+D:\IconExtractorTest\obj\Debug\netcoreapp1.0\IconExtractorTest.pdb
